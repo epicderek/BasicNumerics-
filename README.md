@@ -1,2 +1,2 @@
 # BasicNumerics-
-Elementary numeric functionality and algorithms written in matlab. 
+Elementary numeric computations and algorithms written in matlab. 
